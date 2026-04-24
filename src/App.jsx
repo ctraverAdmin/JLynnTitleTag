@@ -217,9 +217,9 @@ export default function App() {
 
           <div>
             <p className="text-lg font-bold">🕘 Hours</p>
-            <p className="mt-1 text-white/80">Monday-Wednesday 5:30 PM to 9:00 PM</p>
+            <p className="mt-1 text-white/80">Monday - Wednesday 5:30 PM to 9:00 PM</p>
             <p className="text-white/80">Thursday - Friday: By Appointment (5PM-9PM)</p>
-            <p className="text-white/80">Saturday-Sunday: By Appointment (8AM-7PM)</p>
+            <p className="text-white/80">Saturday - Sunday: By Appointment (8AM-7PM)</p>
             <p className="text-white/80">To schedule an appointment call or text (570) 396-4808</p>
           </div>
 
