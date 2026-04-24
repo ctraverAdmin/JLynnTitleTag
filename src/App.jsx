@@ -135,7 +135,7 @@ export default function App() {
             </a>
 
             <a
-              href="https://www.facebook.com/"
+              href="https://www.facebook.com/share/14a61e3151s/?mibextid=wwXIfr"
               target="_blank"
               rel="noreferrer"
               className="block rounded-lg border border-[#174ac9] py-3 text-center font-bold text-[#174ac9]"
@@ -217,8 +217,10 @@ export default function App() {
 
           <div>
             <p className="text-lg font-bold">🕘 Hours</p>
-            <p className="mt-1 text-white/80">Mon - Fri: 9AM - 5PM</p>
-            <p className="text-white/80">Sat: By Appointment | Sun: Closed</p>
+            <p className="mt-1 text-white/80">Monday-Wednesday 5:30 PM to 9:00 PM</p>
+            <p className="text-white/80">Thursday - Friday: By Appointment (5PM-9PM)</p>
+            <p className="text-white/80">Saturday: By Appointment (8AM-7PM) / Sunday's Closed</p>
+            <p className="text-white/80">To schedule an appointment call or text (570) 396-4808</p>
           </div>
 
           <div>
